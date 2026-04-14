@@ -72,7 +72,14 @@ No local installation needed — everything runs in the cloud.
 
 ## 📊 Results
 
-> Coming soon — model training in progress.
+| Metric | Score |
+|---|---|
+| Overall Accuracy | 89.20% |
+| Attack Precision | 99% |
+| Attack Recall | 77% |
+| F1 Score (weighted) | 89% |
+
+![Confusion Matrix](model/confusion_matrix.png)
 
 ---
 

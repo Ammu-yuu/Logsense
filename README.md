@@ -85,7 +85,7 @@ No local installation needed — everything runs in the cloud.
 
 ## 🌐 Live Demo
 
-> Coming soon — will be deployed on Hugging Face Spaces.
+Try the live demo here → [LogSense on Hugging Face Spaces](https://huggingface.co/spaces/anya-yuu/logsense)
 
 ---
 
